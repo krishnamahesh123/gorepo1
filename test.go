@@ -15,4 +15,5 @@ func main() {
 	quo, rem := pack4.Division(10, 20)
 	fmt.Println(quo)
 	fmt.Println(rem)
+	fmt.Println("The assignment is completed")
 }
