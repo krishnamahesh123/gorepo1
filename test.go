@@ -16,4 +16,5 @@ func main() {
 	fmt.Println(quo)
 	fmt.Println(rem)
 	fmt.Println("The assignment is completed")
+	fmt.Println("checking the fetch command")
 }
